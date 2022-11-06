@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "ArchitectureComponentDataBindingWithInclude"
+rootProject.name = "AndroidArchitectureComponentDataBindingWithInclude"
 include ':app'
